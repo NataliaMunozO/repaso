@@ -1,8 +1,35 @@
-
+/*
+#2C3333*/
 .text-light{
     color:#A5C9CA;
 
 }
 .bg-primary{
-    background-color:#2C3333 ;
+    background-color:#395B64 ;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-secondary{
+    color:#395B64;
+}
+
+.width-100{
+    width: 100px;
+}
+
+.bg-info
+{
+    background-color:#A5C9CA ;
+}
+
+.text-primary{
+    color:#2C3333 ;
+}
+
+.text-white
+{
+    color: white;
 }
